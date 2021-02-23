@@ -15,10 +15,19 @@
   </board-manifest-list>
   <app-manifest-list>
     <app-manifest>
-      <uri>https://github.com/cypresssemiconductorco/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml</uri>
+      <uri>https://github.com/arvi-kris-cy/mtb-ce-manifest-split/raw/v2.X/mtb-ce-manifest.xml</uri>
     </app-manifest>
     <app-manifest>
-      <uri>https://github.com/cypresssemiconductorco/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml</uri>
+      <uri>https://github.com/arvi-kris-cy/mtb-ce-manifest-split/raw/v2.X/mtb-psoc6-ce-manifest-fv2.xml</uri>
+    </app-manifest>
+    <app-manifest>
+      <uri>https://github.com/arvi-kris-cy/mtb-ce-manifest-split/raw/v2.X/mtb-psoc4-ce-manifest-fv2.xml</uri>
+    </app-manifest>
+    <app-manifest>
+      <uri>https://github.com/arvi-kris-cy/mtb-ce-manifest-split/raw/v2.X/mtb-anycloud-ce-manifest-fv2.xml</uri>
+    </app-manifest>
+    <app-manifest>
+      <uri>https://github.com/arvi-kris-cy/mtb-ce-manifest-split/raw/v2.X/mtb-xmc-ce-manifest-fv2.xml</uri>
     </app-manifest>
     <app-manifest>
       <uri>https://github.com/cypresssemiconductorco/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml</uri>
